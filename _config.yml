@@ -1,5 +1,5 @@
 remote_theme : mmistakes/minimal-mistakes
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "contrast"
 
 # Site Settings
 locale                   : "en-US"
@@ -7,7 +7,7 @@ title                    : "박정웅의 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "JungWoong Park"
-description              : "An amazing website."
+description              : ""
 url                      : "https://parkjungwoong.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -17,7 +17,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus", "facebook"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -50,7 +50,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : "google4e7104f88d2e2089.html"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
@@ -70,38 +70,26 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google"
   google:
-    tracking_id          :
+    tracking_id          : "UA-126510528-1"
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
   name             : "JungWoong Park"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  avatar           : "https://avatars1.githubusercontent.com/u/13480953?s=460&u=fff8576c2010cb1ed71aa8eb4f43026c3c2737ed&v=4"
+  bio              : "Toss의 Scraping 서비스를 개발하고 있습니다."
+  location         : "Korea, seoul"
+  email            : "myuoong@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "mailto:myuoong@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/parkjungwoong"
 
 # Site Footer
 footer:
