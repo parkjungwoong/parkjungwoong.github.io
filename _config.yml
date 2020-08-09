@@ -1,5 +1,5 @@
 remote_theme : mmistakes/minimal-mistakes
-minimal_mistakes_skin: "contrast"
+minimal_mistakes_skin: "air"
 
 # Site Settings
 locale                   : "en-US"
@@ -84,9 +84,9 @@ author:
   location         : "Korea, seoul"
   email            : "myuoong@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:myuoong@gmail.com"
+    - label: "linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/%EC%A0%95%EC%9B%85-%EB%B0%95-888b56ba/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/parkjungwoong"
