@@ -1,5 +1,5 @@
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "mint"
+remote_theme : mmistakes/minimal-mistakes
+minimal_mistakes_skin: "default"
 
 # Site Settings
 locale                   : "en-US"
@@ -56,8 +56,6 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
 facebook:
   username               :
   app_id                 :
@@ -80,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "JungWoong Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
