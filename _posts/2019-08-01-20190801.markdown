@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Spring Batch 설정과 실행"
 date:   2019-08-01
 description: Spring Batch 설정과 실행
