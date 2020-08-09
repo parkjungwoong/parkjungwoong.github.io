@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Ionic3 FCM 연동"
 date:   2018-12-13
 description: ionic3 환경에서 FCM 연동 및 테스트 방법

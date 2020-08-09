@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Ionic3 (4) 테스트용 NodeJS 웹서버"
 date:   2018-10-07
 description: Ionic3 Http 클라이언트 테스트를 위한 웹서버 구축

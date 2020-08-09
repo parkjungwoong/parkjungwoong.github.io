@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "백준 2448번 별찍기 JAVA"
 date:   2019-05-06
 description: 백준 알고리즘 풀이(JAVA), 2448번 별찍기 - 11

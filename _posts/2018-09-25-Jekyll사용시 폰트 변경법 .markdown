@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Jekyll사용시 폰트 변경법"
 date:   2018-09-25
 description: SCSS 파일을 변경하여 폰트 변경하는 방법

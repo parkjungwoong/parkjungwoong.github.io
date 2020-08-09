@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Ionic3 (3) 입력 form"
 date:   2018-10-05
 description: Ionic3 form 입력과 유효성 검사에 대해 알아본다.

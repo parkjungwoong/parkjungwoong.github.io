@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Ionic3 (6) 로컬 저장소"
 date:   2018-10-13
 description: Ionic3 로컬 저장소를 이용해보기

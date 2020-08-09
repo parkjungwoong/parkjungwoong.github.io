@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "레거시 소스 개선을 하며 느낀 점(2/4)"
 date:   2019-04-28
 description: 레거시 소스 개선을 위한 업무파악 경험담

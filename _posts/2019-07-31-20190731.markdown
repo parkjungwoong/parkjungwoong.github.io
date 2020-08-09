@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Spring Batch의 핵심 개념 요약"
 date:   2019-07-31
 description: Spring Batch에서 사용하는 핵심 개념

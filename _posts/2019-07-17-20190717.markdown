@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "elsticsearch 6.4->7.2로 업그래이드 하기"
 date:   2019-07-17
 description: elsticsearch 6.4->7.2로 업그래이드 하기

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Ionic3 (2) 리스트 뷰"
 date:   2018-10-02
 description: Ionic3 리스트 뷰

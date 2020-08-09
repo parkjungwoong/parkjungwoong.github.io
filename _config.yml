@@ -3,10 +3,10 @@ minimal_mistakes_skin: "air"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "박정웅의 블로그"
+title                    : "메모장"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "JungWoong Park"
+name                     : "박정웅"
 description              : ""
 url                      : "https://parkjungwoong.github.io"
 baseurl                  : ""
@@ -50,7 +50,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : "google4e7104f88d2e2089.html"
+google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :

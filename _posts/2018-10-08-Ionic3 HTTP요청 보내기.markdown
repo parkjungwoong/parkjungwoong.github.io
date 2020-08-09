@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Ionic3 (5) HTTP 요청"
 date:   2018-10-08
 description: Ionic3 Http 요청 기능 추가하기
